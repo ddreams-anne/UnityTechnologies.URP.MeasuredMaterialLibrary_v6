@@ -1,0 +1,17 @@
+Button {
+    width: auto;
+    margin-top: 8px;
+    margin-right: 8px;
+    margin-left: auto;
+    border-width: 1px;
+    border-radius: 6px;
+    border-color: rgb(255, 255, 255);
+    background-color: rgb(68, 85, 102);
+    color: rgb(255, 255, 255);
+}
+
+Button:hover {
+    border-color: rgb(17, 34, 51);
+    background-color: rgb(170, 187, 204);
+    color: rgb(17, 34, 51);
+}

@@ -1,0 +1,4 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/D-DREAMS%20Studio/CORE/User%20Interface/Measured%20Materials%20USS.uss?fileID=7433441132597879392&amp;guid=61cbb32caca3e45679fdfd494cab6f12&amp;type=3#Measured Materials USS" />
+    <engine:Button text="Save Screenshot" name="ScreenCaptureButton" />
+</engine:UXML>
