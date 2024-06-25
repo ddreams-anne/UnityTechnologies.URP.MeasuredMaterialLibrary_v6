@@ -1,5 +1,5 @@
 # Measured Material Library
-for the Universal Render Pipeline
+... for the Universal Render Pipeline
 
 This is a Unity Project showcasing the Measured Material Library for the Universal Render Pipeline.
 It is an upgrade from the original library by Unity Technologies at [github.com/Unity-Technologies/MeasuredMaterialLibraryURP](https://github.com/Unity-Technologies/MeasuredMaterialLibraryURP), which was created for Unity 2019.
